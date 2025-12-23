@@ -1,5 +1,5 @@
 
-# 🧠 LLM-Powered SQL Assistant (End-to-End)
+# 🧠 LLM-Powered SQL Assistant (End-to-End) 
 
 An end-to-end Generative AI project that enables users to interact with a MySQL database using natural language.
 The system leverages Large Language Models (LLMs) and LangChain to automatically convert user questions into accurate SQL queries, execute them on a live database, and return meaningful insights through an interactive UI.
